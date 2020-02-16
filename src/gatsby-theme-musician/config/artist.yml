@@ -1,0 +1,22 @@
+artist:
+  name: Melwy
+  tagline: Data against diseases
+  # seo_title:
+  # seo_description:
+  # contact_twitter_username:
+  # contact_phone: 
+  # contact_email: 
+
+social:
+  - name: school
+    url: https://scholar.google.fr/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=mostapha+benhenda&as_publication=&as_ylo=2017&as_yhi=&hl=en&as_sdt=0%2C5
+  - name: feather
+    url: https://melwy.com/blog
+  - name: Twitter
+    url: https://twitter.com
+  - name: Youtube
+    url: https://youtube.com
+  - name: slack
+    url: https://spotify.com
+
+site_language: en
